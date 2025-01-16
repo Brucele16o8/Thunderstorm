@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "416A2FEA-1BD0-4EE1-8CD4-2CDABA4CCD89",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Thunderstorm.xcodeproj",
+      "identifier" : "5328FDE32D28255C002A98C9",
+      "name" : "Thunderstorm"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Thunderstorm.xcodeproj",
+        "identifier" : "53C74CCA2D350BD0008E8D2B",
+        "name" : "ThunderstormTests"
+      }
+    }
+  ],
+  "version" : 1
+}
